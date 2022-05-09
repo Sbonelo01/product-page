@@ -1,5 +1,5 @@
 import React from 'react'
-import 
+import "../../styles/components/components.css"
 
 function Presentation() {
   return (
