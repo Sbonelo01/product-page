@@ -1,8 +1,9 @@
 import React from 'react'
+import "../../../styles/components.css"
 
 function ShippingTime() {
   return (
-    <div>ShippingTime</div>
+    <div className='main'>ShippingTime</div>
   )
 }
 

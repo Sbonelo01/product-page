@@ -2,7 +2,7 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "layout.sass"
+        "layout.scss"
     ],
     "names": [],
     "file": "layout.css"
